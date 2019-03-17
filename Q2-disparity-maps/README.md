@@ -34,6 +34,7 @@ See Appendix 3.2 for source code.
 
 ### Pre-requisites
 `clang` with C++11 support
+
 `opencv 4.0.1`
 
 ### To generate a disparity map for two images (same size)
